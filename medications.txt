@@ -1,4 +1,4 @@
-Advil,Advil Cold & Sinus caplets or liquigels,TEMP,
+Advil,Advil Cold & Sinus caplets or liquigels,,
 Advil,Advil Sinus Congestion & Pain tablets,,
 Airborne,Airborne chewable tablets,,
 Airborne,Airborne Gummies,,
