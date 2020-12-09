@@ -1,68 +1,93 @@
-United COVID-19 Survivor's Study
-DISCLOSURE
-This is a study for people who currently have the COVID-19 illness and have been diagnosed by a positive laboratory test or medical professional.
 
-This survey was developed by researchers at the University of California, Los Angeles, University of California, Merced & the University of Illinois.
+
+Informed consent
 
 University of California Los Angeles, University of Illinois Urbana-Champaign, University of California Merced
- 
-Informed Consent to Participate in Research
- 
-Study title: A Study of Everyday Factors and Symptoms in COVID-19 Infection 
- 
-Researchers: Professor Daniel Fessler, UCLA; Edward Clint, UIUC; Professor Jennifer Hahn-Holbrook, UC Merced; Professor Justin Rhodes, UIUC
- 
-We’re inviting you to take a survey for research. This survey is completely voluntary. There are no negative consequences if you don’t want to take it. If you start the survey, you can always change your mind and stop at any time.
- 
-What is the purpose of this study?
-We want to understand better what affects the course of COVID-19 illness and symptoms over a period of time.
- 
-What will I do?
-This survey will ask questions about your health, health history, habits, living situation, mental health, COVID-19 illness, and use of medications or means of illness treatment or prevention. The survey will take about 1 minute to complete each day.
- 
-Risks
- ·        Some questions may be personal or upsetting. You can skip them or quit the survey at any time.
- ·        Online data being hacked or intercepted: Anytime you share information online there are risks. We’re using a secure system to collect this data, but we can’t completely eliminate this risk.
- ·        Breach of confidentiality: There is a chance your data could be seen by someone who shouldn’t have access to it. We’re minimizing this risk in the following ways:
-   o   Data is anonymous. We will never ask for your name, address, or any other identifying details.
-   o   We’ll store all electronic data on a password-protected, encrypted computer.
- 
-Possible benefits: You will not directly benefit from your participation in the research. Knowledge about how everyday behaviors can influence the progression of COVID-19 disease may reduce illness severity and even mortality rates for millions of people who may contract the disease.
- 
-Estimated number of participants: 10,000
- 
-How long will it take? Most respondents will spend less than 20 minutes.
- 
-Costs: Participation in this study is entirely free of charge. You may have noticed that, on our website, we accept monetary donations to help support this research.  You do not need to donate in order to participate in this study, and your choice in this regard will have no impact on your participation.  Indeed, because this study is anonymous, we have no way of knowing whether participants donate or not.
- 
-Compensation: Participants will not receive any direct compensation. To recognize participants’ efforts, we will randomly select 10 ZIP codes from among those in which the study’s participants reside; for each of the 10 ZIP codes, we will make a $1,000 donation to one hospital serving that region.
- 
-Future research: De-identified data (all identifying information removed) may be shared with other researchers. You won’t be told specific details about these future research studies.
- 
-Funding source: UCLA Gold Shield Award to D. Fessler
- 
-Confidentiality and Data Security
-The only possibly identifying information that we’ll collect from you is your postal ZIP code. This information is necessary to understanding how geographic location and socio-economic factors relate to COVID-19 disease.
- 
-Where will data be stored?
-The data will be stored on servers and downloaded to password-protected computers only accessible to the research team.  A version of the dataset with all potentially identifying information deleted will be stored in the openICPSR data repository maintained by the University of Michigan (https://www.openicpsr.org/).
- 
-How long will it be kept? In light of the potential importance of this data for combating COVID-19 and related diseases in the future, it will be kept indefinitely.
- 
-Who can see my data?
- ·        Best practices in scientific studies such as this one require us to make our dataset public so that other researchers can use it. However, publicly posted data will have all potentially identifying information removed.
- ·        Agencies that enforce legal and ethical guidelines, such as
-   o   The Institutional Review Board (IRB) at UCLA
-   o   The Office for Human Research Protections (OHRP)
- ·        We may share our findings in publications or presentations. If we do, the results will be aggregated (grouped) data, with no individual results.
- 
- 
-Questions about the research, complaints, or problems: Contact Prof. Daniel Fessler, 310-794-9252, email dfessler@anthro.ucla.edu or Prof. Justin Rhodes, (217) 265-0021, email jrhodes@illinois.edu.
- 
-If you have questions about your rights as a research subject, or you have concerns or suggestions and you want to talk to someone other than the researchers, you may contact the UCLA OHRPP by phone: (310) 206-2040; by email: participants@research.ucla.edu or by mail: Box 951406, Los Angeles, CA 90095-1406.
- 
-Please print or save this screen if you want to be able to access the information later.
-IRB #: TBD
-IRB Approval Date: TBD
-By tapping I agree, you hereby agree that you have read the survey disclosure, are at least 18 years of age or older and consent to participate in this study.
 
+Informed Consent to Participate in Research
+
+Study title: United COVID Survivors Study
+
+Researchers: Professor Daniel Fessler, UCLA; Edward Clint, UIUC; Professor Jennifer Hahn-Holbrook, UC Merced; Professor Justin Rhodes, UIUC
+
+We’re inviting you to take a survey for research. This survey is completely voluntary. There are no negative consequences if you don’t want to take it. If you start the survey, you can always change your mind and stop at any time.
+
+What is the purpose of this study?
+
+We want to understand better what affects the course of COVID-19 illness and symptoms.
+
+What will I do?
+
+This survey will ask questions about your health, health history, habits, living situation, mental health, COVID-19 illness, and use of medications or means of illness treatment or prevention. The initial survey will take about 10 minutes. The daily survey will take less than five minutes.
+
+Risks
+
+ · Some questions may be personal or upsetting. You can skip them or quit the survey at any time.
+
+ · Online data being hacked or intercepted: Anytime you share information online there are risks. We’re using a secure system to collect this data, but we can’t completely eliminate this risk.
+
+ · Breach of confidentiality: There is a chance your data could be seen by someone who shouldn’t have access to it. We’re minimizing this risk in the following ways:
+
+o Data is anonymous. We will never ask for your name, address, or any other identifying details.
+
+o We’ll store all electronic data on a password-protected, encrypted computer.
+
+Possible benefits: You will not directly benefit from participation in the research. Knowledge about how everyday behaviors can influence the progression of COVID-19 disease may reduce illness severity and even mortality rates for millions of people who may contract the disease.
+
+Estimated number of participants: 10,000
+
+How long will it take? On the first day the app is used the initial survey takes approximately ten minutes. The typical daily survey will ask about symptoms and
+
+medications and this will take less than two minutes. Occasionally, the daily survey will include a few more questions but this will not exceed 5 minutes.
+
+The daily survey will continue until COVID-19 symptoms have ceased for 7 days. At that point, you may elect to permit the app to check in with you once a week to ask if any symptoms have returned or there are lingering symptoms/sequelae. If COVID-19 symptoms have returned, you may optionally resume daily survey as described above. The optional weekly check-ins will proceed until you no longer with to participate or two years have elapsed.
+
+Costs: Participation in this study is entirely free of charge. You may have noticed that, on our website, we accept monetary donations to help support this research. You do not need to donate in order to participate in this study, and your choice in this regard will have no impact on your participation. Indeed, because this study is anonymous, we have no way of knowing whether participants donate or not.
+
+The app will occasionally need to send data and this could lead to data charges with your cell phone service carrier (The app utilizes <1 megabyte per day on average).
+
+Compensation: Participants will not receive any direct compensation. To recognize participants’ efforts, we will randomly select 10 ZIP codes from among those in which the study’s participants reside; for each of the 10 ZIP codes, we will make a $1,000 donation to one hospital serving that region.
+
+Future research: De-identified data (all identifying information removed) may be shared with other researchers. You won’t be told specific details about these future research studies.
+
+Funding source: UCLA Gold Shield Award to D. Fessler
+
+Confidentiality and Data Security
+
+The only possibly identifying information that we’ll collect from you is your postal ZIP code. This information is necessary to understanding how geographic location and socio-economic factors relate to COVID-19 disease.
+
+Where will data be stored?
+
+The data will be stores on the Qualtrics and Google Cloud server infrastructure and downloaded to password-protected computers only access by the research team. A version of the dataset with all potentially identifying information deleted will be stored in the openICPSR data repository maintained by the University of Michigan (https://www.openicpsr.org/).
+
+How long will it be kept? In light of the potential importance of this data for combating COVID-19 and related diseases in the future, it will be kept indefinitely.
+
+Who can see my data?
+
+ · Best practices in scientific studies such as this one requires us to make our dataset public so that other researchers can use it. However, publicly posted data will have all potentially identifying information removed.
+
+ · Agencies that enforce legal and ethical guidelines, such as
+
+o The Institutional Review Board (IRB) at UCLA
+
+o The Office for Human Research Protections (OHRP)
+
+ · We may share our findings in publications or presentations. If we do, the results will be aggregated (grouped) data, with no individual results.
+
+Questions about the research, complaints, or problems: Contact Prof. Daniel Fessler, 310-794-9252, email dfessler@anthro.ucla.edu or Prof. Justin Rhodes, (217) 265-0021, email jrhodes@illinois.edu.
+
+If you have questions about your rights as a research subject, or you have concerns or suggestions and you want to talk to someone other than the researchers, you may contact the UCLA OHRPP by phone: (310) 206-2040; by email: participants@research.ucla.edu or by mail: Box 951406, Los Angeles, CA 90095-1406.
+
+Please print or save this screen if you want to be able to access the information later.
+
+IRB #: 20-001365
+
+IRB Approval Date: 10/5/2020
+
+By clicking Continue, you acknowledge that I have read the survey information and consent to participate in this study, I am at least 18 years of age, and I consent to participate in this study.
+
+Disclaimer
+
+You may be asked about products or methods which some people have used to treat or prevent COVID-19 illness which may be ineffective or harmful. Questions about any particular medication, supplement, product, or method of COVID-19 prevention or treatment should not be taken as an endorsement. If you have COVID-19, you should follow the advice of a doctor or healthcare professional.
+
+Continue to begin survey.
