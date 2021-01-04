@@ -84,10 +84,10 @@ IRB #: 20-001365
 
 IRB Approval Date: 10/5/2020
 
-By clicking Continue, you acknowledge that I have read the survey information and consent to participate in this study, I am at least 18 years of age, and I consent to participate in this study.
+By clicking I Agree, you acknowledge that you have read the survey information and consent to participate in this study, you are at least 18 years of age, and you consent to participate in this study.
 
 Disclaimer
 
 You may be asked about products or methods which some people have used to treat or prevent COVID-19 illness which may be ineffective or harmful. Questions about any particular medication, supplement, product, or method of COVID-19 prevention or treatment should not be taken as an endorsement. If you have COVID-19, you should follow the advice of a doctor or healthcare professional.
 
-Continue to begin survey.
+Click I Agree to begin survey.
