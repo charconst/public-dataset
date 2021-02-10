@@ -84,7 +84,7 @@ IRB #: 20-001365
 
 IRB Approval Date: 10/5/2020
 
-By clicking I Agree, you acknowledge that you have read the survey information and consent to participate in this study, you are at least 18 years of age, and you consent to participate in this study.
+By clicking the button labeled 'Yes, I consent to participate in this study', you acknowledge that you have read the survey information and consent to participate in this study, you are at least 18 years of age, and you consent to participate in this study.
 
 Disclaimer
 
